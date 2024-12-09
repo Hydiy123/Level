@@ -1,2 +1,3 @@
-# LevelpyChat
-A password guessing Game module with ready made number guessing game in python using tkinter and pygame
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

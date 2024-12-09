@@ -1,0 +1,1 @@
+include levelpychat/sounds/*.wav
